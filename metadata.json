@@ -1,0 +1,5 @@
+{
+  "name": "MediStaff Pro",
+  "description": "A comprehensive hospital staff management system with secure authentication, CRUD operations, and advanced filtering capabilities.",
+  "requestFramePermissions": []
+}
